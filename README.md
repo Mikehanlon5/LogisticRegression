@@ -1,5 +1,4 @@
 # LogisticRegression
-Assignments with Logistic Regression
 
 # EmployeeAttrition.ipynb
 
